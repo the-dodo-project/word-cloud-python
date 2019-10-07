@@ -1,0 +1,43 @@
+- [act, action]             -> action
+- [activity, activities]    -> activity
+- [area, areas]             -> area
+- [building, buildings]     -> building
+- [change, changes]         -> change
+- [chemical, chemicals]     -> chemical
+- [cost, costs]             -> cost
+- [developed, developing, development]  -> development
+- [earth, earths]           -> earth
+- [economic, economics, economy]        -> economy
+- [ecosystem, ecosystems]   -> ecosystems
+- [electric, electricity]   -> electricity
+- [environment, environmental]          -> environment
+- [fuel, fuels]             -> fuel
+- [gas, gases]              -> gas
+- [human, humans]           -> human
+- [impact, impacts]         -> impacts
+- [include, including]      -> include
+- [increase, increased, increasing] -> increase
+- [industry, industrial]    -> industry
+- [make , made]             -> make
+- [material, materials]     -> material
+- [mineral, minerals]       -> mineral
+- [nations, national]       -> nations
+- [nature, natural]         -> nature
+- [need, needs]             -> need
+- [plant, plants]           -> plant
+- [pollution, pollutant]    -> pollution
+- [problem, problems]       -> problem       
+- [process, processes]      -> process
+- [produdct, products, production, produce, produced] -> production 
+- [reduce, reducing]        -> reduce
+- [resource, resources]     -> resource
+- [society, societal]       -> society
+- [source, sources]         -> source
+- [state, states]           -> state 
+- [system, systems]         -> system
+- [use, used, uses, using]  -> use
+- [value, values]           -> value
+- [waste, wastes]           -> waste
+- [way, ways]               -> way
+- [world, worlds]           -> way
+- [year, year]              -> year
