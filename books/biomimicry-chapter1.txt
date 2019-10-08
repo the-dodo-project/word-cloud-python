@@ -1,0 +1,117 @@
+Echoing Nature
+
+Why Biomimicry Now?
+
+We must draw our standards from the natural world. We must honor with the humility of the wise the bounds of that natural world and the mystery which lies beyond them, admitting that there is something in the order of being which evidently exceeds all our competence.
+
+–Vaclav Havel, president of the Czech Republic
+
+It’s not ordinary for a bare-chested man wearing jaguar teeth and owl feathers to grace the pages of The New Yorker, but these are not ordinary times. While I was writing this book, Moi, an Huaorani Indian leader whose name means “dream,” traveled to Washington, D.C., to defend his Amazonian homeland against oil drilling. He roared like a jaguar in the hearings, teaching a roomful of jaded staffers where real power comes from and what homeland actually means.
+
+Meanwhile, in America’s heartland, two books about aboriginal peoples were becoming word-of-mouth best-sellers, much to their publishers’ surprise. Both were about urban Westerners whose lives are changed forever by the wise teachings of preindustrial societies.
+
+What’s going on here? My guess is that Homo industrialis, having reached the limits of nature’s tolerance, is seeing his shadow on the wall, along with the shadows of rhinos, condors, manatees, lady’s slippers, and other species he is taking down with him. Shaken by the sight, he, we, are hungry for instructions about how to live sanely and sustainably on the Earth.
+
+The good news is that wisdom is widespread, not only in indigenous peoples but also in the species that have lived on Earth far longer than humans. If the age of the Earth were a calendar year and today were a breath before midnight on New Year’s Eve, we showed up a scant fifteen minutes ago, and all of recorded history has blinked by the last sixty seconds. Luckily for us, our planet-mates–the fantastic meshwork of plants, animals, and microbes–have been patiently perfecting their wares since March, an incredible 3.8 billion years since the first bacteria.
+
+In that time, life has learned to fly, circumnavigate the globe, live in the depths of the ocean and atop the highest peaks, craft miracle materials, light up the night, lasso the sun’s energy, and build a self-reflective brain. Collectively, organisms have managed to turn rock and sea into a life-friendly home, with steady temperatures and smoothly percolating cycles. In short, living things have done everything we want to do, without guzzling fossil fuel, polluting the planet, or mortgaging their future. What better models could there be?
+
+ 
+
+ECHO-INVENTIONS
+In these pages, you’ll meet men and women who are exploring nature’s masterpieces–photosynthesis, self-assembly, natural selection, self-sustaining ecosystems, eyes and ears and skin and shells, talking neurons, natural medicines, and more–and then copying these designs and manufacturing processes to solve our own problems. I call their quest biomimicry–the conscious emulation of life’s genius. Innovation inspired by nature.
+
+In a society accustomed to dominating or “improving” nature, this respectful imitation is a radically new approach, a revolution really. Unlike the Industrial Revolution, the Biomimicry Revolution introduces an era based not on what we can extract from nature, but on what we can learn from her.
+
+As you will see, “doing it nature’s way” has the potential to change the way we grow food, make materials, harness energy, heal ourselves, store information, and conduct business.
+
+In a biomimetic world, we would manufacture the way animals and plants do, using sun and simple compounds to produce totally biodegradable fibers, ceramics, plastics, and chemicals. Our farms, modeled on prairies, would be self-fertilizing and pest-resistant. To find new drugs or crops, we would consult animals and insects that have used plants for millions of years to keep themselves healthy and nourished. Even computing would take its cue from nature, with software that “evolves” solutions, and hardware that uses the lock-and-key paradigm to compute by touch.
+
+In each case, nature would provide the models: solar cells copied from leaves, steely fibers woven spider-style, shatterproof ceramics drawn from mother-of-pearl, cancer cures compliments of chimpanzees, perennial grains inspired by tallgrass, computers that signal like cells, and a closed-loop economy that takes its lessons from redwoods, coral reefs, and oak-hickory forests.
+
+The biomimics are discovering what works in the natural world, and more important, what lasts. After 3.8 billion years of research and development, failures are fossils, and what surrounds us is the secret to survival. The more our world looks and functions like this natural world, the more likely we are to be accepted on this home that is ours, but not ours alone.
+
+This, of course, is not news to the Huaorani Indians. Virtually all native cultures that have survived without fouling their nests have acknowledged that nature knows best, and have had the humility to ask the bears and wolves and ravens and redwoods for guidance. They can only wonder why we don’t do the same. A few years ago, I began to wonder too. After three hundred years of Western Science, was there anyone in our tradition able to see what the Huaorani see?
+
+ 
+
+HOW I FOUND THE BIOMIMICS
+My own degree is in an applied science–forestry–complete with courses in botany, soils, water, wildlife, pathology, and tree growth. Especially tree growth. As I remember, cooperative relationships, self-regulating feedback cycles, and dense interconnectedness were not something we needed to know for the exam. In reductionist fashion, we studied each piece of the forest separately, rarely considering that a spruce-fir forest might add up to something more than the sum of its parts, or that wisdom might reside in the whole. There were no labs in listening to the land or in emulating the ways in which natural communities grew and prospered. We practiced a human-centered approach to management, assuming that nature’s way of managing had nothing of value to teach us.
+
+It wasn’t until I started writing books on wildlife habitats and behavior that I began to see where the real lessons lie: in the exquisite ways that organisms are adapted to their places and to each other. This hand-in-glove harmony was a constant source of delight to me, as well as an object lesson. In seeing how seamlessly animals fit into their homes, I began to see how separate we managers had become from ours. Despite the fact that we face the same physical challenges that all living beings face–the struggle for food, water, space, and shelter in a finite habitat–we were trying to meet those challenges through human cleverness alone. The lessons inherent in the natural world, strategies sculpted and burnished over billions of years, remained scientific curiosities, divorced from the business of our lives.
+
+But what if I went back to school now? Could I find any researchers who were consciously looking to organisms and ecosystems for inspiration about how to live lightly and ingeniously on the Earth? Could I work with inventors or engineers who were dipping into biology texts for ideas? Was there anyone, in this day and age, who regarded organisms and natural systems as the ultimate teachers?
+
+Happily, I found not one but many biomimics. They are fascinating people, working at the edges of their disciplines, in the fertile crests between intellectual habitats. Where ecology meets agriculture, medicine, materials science, energy, computing, and commerce, they are learning that there is more to discover than to invent. They know that nature, imaginative by necessity, has already solved the problems we are struggling to solve. Our challenge is to take these time-tested ideas and echo them in our own lives.
+
+Once I found the biomimics, I was thrilled, but surprised that there is no formal movement as yet, no think tanks or university degrees in biomimicry. This was strange, because whenever I mentioned what I was working on, people responded with a universal enthusiasm, a sort of relief upon hearing an idea that makes so much sense. Biomimicry has the earmarks of a successful meme, that is, an idea that will spread like an adaptive gene throughout our culture. Part of writing this book was my desire to see that meme spread and become the context for our searching in the new millennium.
+
+I see the signs of nature-based innovation everywhere I go now. >From Velcro (based on the grappling hooks of seeds) to holistic medicine, people are trusting the inscrutable wisdom of natural solutions. And yet I wonder, why now? Why hasn’t our culture always rushed to emulate what obviously works? Why are we becoming nature’s proteges at this late date?
+
+ 
+
+THE STORM BEFORE THE CALM
+Though it seems perfectly sensible to echo our biological ancestors, we have been traveling in just the opposite direction, driven to gain our independence. Our journey began ten thousand years ago with the Agricultural Revolution, when we broke free from the vicissitudes of hunting and gathering and learned to stock our own pantries. It accelerated with the Scientific Revolution, when we learned, in Francis Bacon’s words, to “torture nature for her secrets.” Finally, when the afterburners of the Industrial Revolution kicked in, machines replaced muscles and we learned to rock the world.
+
+But these revolutions were only a warm-up for our real break from Earthly orbit–the Petrochemical and Genetic Engineering Revolutions. Now that we can synthesize what we need and rearrange the genetic alphabet to our liking, we have gained what we think of as autonomy. Strapped to our juggernaut of technology, we fancy ourselves as gods, very far from home indeed.
+
+In reality, we haven’t escaped the gravity of life at all. We are still beholden to ecological laws, the same as any other lifes-form. The most irrevocable of these laws says that a species cannot occupy a niche that appropriates all resources–there has to be some sharing. Any species that ignores this law winds up destroying its community to support its own expansion. Tragically, this has been our path. We began as a small population in a very large world and have expanded in number and territory until we are bursting the seams of that world. There are too many of us, and our habits are unsustainable.
+
+But I believe, as many have before me, that this is just the storm before the calm. The new sciences of chaos and complexity tell us that a system that is far from stable is a system ripe for change. Evolution itself is believed to have occurred in fits and starts, plateauing for millions of years and then leaping to a whole new level of creativity after crisis.
+
+Reaching our limits, then, if we choose to admit them to ourselves, may be an opportunity for us to leap to a new phase of coping, in which we adapt to the Earth rather than the other way around. The changes we make now, no matter how incremental they seem, may be the nucleus for this new reality. When we emerge from the fog, my hope is that we’ll have turned this juggernaut around, and instead of fleeing the Earth, we’ll be homeward bound, letting nature lead us to our landing, as the orchid leads the bee.
+
+ 
+
+IN VIVO GENIUS
+It may be a troubled conscience that is pushing us toward home, say the biomimics, but the critical mass of new information in the natural sciences is providing an equally important pull. Our fragmentary knowledge of biology is doubling every five years, growing like a pointillist painting to a recognizable whole. Equally unprecedented is the intensity of our gaze: new scopes and satellites allow us to witness nature’s patterns from the intercellular to the interstellar. We can probe a buttercup with the eyes of a mite, ride the electron shuttle of photosynthesis, feel the shiver of a neuron in thought, or watch in color as a star is born. We can see, more clearly than ever before, how nature works her miracles.
+
+When we stare this deeply into nature’s eyes, it takes our breath away, and in a good way, it bursts our bubble. We realize that all our inventions have already appeared in nature in a more elegant form and at a lot less cost to the planet. Our most clever architectural struts and beams are already featured in lily pads and bamboo stems. Our central heating and air-conditioning are bested by the termite tower’s steady 86 degrees F. Our most stealthy radar is hard of hearing compared to the bat’s multifrequency transmission. And our new “smart materials” can’t hold a candle to the dolphin’s skin or the butterfly’s proboscis. Even the wheel, which we always took to be a uniquely human creation, has been found in the tiny rotary motor that propels the flagellum of the world’s most ancient bacteria.
+
+Humbling also are the hordes of organisms casually performing feats we can only dream about. Bioluminescent algae splash chemicals together to light their body lanterns. Arctic fish and frogs freeze solid and then spring to life, having protected their organs from ice damage. Black bears hibernate all winter without poisoning themselves on their urea, while their polar cousins stay active, with a coat of transparent hollow hairs covering their skins like the panes of a greenhouse. Chameleons and cuttlefish hide without moving, changing the pattern of their skin to instantly blend with their surroundings. Bees, turtles, and birds navigate without maps, while whales and penguins dive without scuba gear. How do they do it? How do dragonflies outmaneuver our best helicopters? How do hummingbirds cross the Gulf of Mexico on less than one tenth of an ounce of fuel? How do ants carry the equivalent of hundreds of pounds in a dead heat through the jungle?
+
+These individual achievements pale, however, when we consider the intricate interliving that characterizes whole systems, communities like tidal marshes or saguaro forests. In ensemble, living things maintain a dynamic stability, like dancers in an arabesque, continually juggling resources without waste. After decades of faithful study, ecologists have begun to fathom hidden likenesses among many interwoven systems. From their notebooks, we can begin to divine a canon of nature’s laws, strategies, and principles that resonates in every chapter of this book:
+
+ 
+
+Nature runs on sunlight.
+Nature uses only the energy it needs.
+Nature fits form to function.
+Nature recycles everything.
+Nature rewards cooperation.
+Nature banks on diversity.
+Nature demands local expertise.
+Nature curbs excesses from within.
+Nature taps the power of limits.
+ 
+
+A CAUTIONARY TALE
+This last lesson, “tapping the power of limits,” is perhaps most opaque to us because we humans regard limits as a universal dare, something to be overcome so we can continue our expansion. Other Earthlings take their limits more seriously, knowing they must function within a tight range of life-friendly temperatures, harvest within the carrying capacity of the land, and maintain an energy balance that cannot be borrowed against. Within these lines, life unfurls her colors with virtuosity, using limits as a source of power, a focusing mechanism. Because nature spins her spell in such a small space, her creations read like a poem that says only what it means.
+
+Studying these poems day in and day out, biomimics develop a high degree of awe, bordering on reverence. Now that they see what nature is truly capable of, nature-inspired innovations seem like a hand up out of the abyss. As we reach up to them, however, I can’t help but wonder how we will use these new designs and processes. What will make the Biomimicry Revolution any different from the Industrial Revolution? Who’s to say we won’t simply steal nature’s thunder and use it in the ongoing campaign against life?
+
+This is not an idle worry. The last really famous biomimetic invention was the airplane (the Wright brothers watched vultures to learn the nuances of drag and lift). We flew like a bird for the first time in 1903, and by 1914, we were dropping bombs from the sky.
+
+Perhaps in the end, it will not be a change in technology that will bring us to the biomimetic future, but a change of heart, a humbling that allows us to be attentive to nature’s lessons. As author Bill McKibben has pointed out, our tools are always deployed in the service of some philosophy or ideology. If we are to use our tools in the service of fitting in on Earth, our basic relationship to nature–even the story we tell ourselves about who we are in the universe–has to change.
+
+The ideology that allowed us to expand beyond our limits was that the world was put here exclusively for our use. We were, after all, the apex of evolution, the piece de resistance in the pyramid of life. Mark Twain was amused by this notion. In his marvelous Letters to the Earth, he says that claiming we are superior to the rest of creation is like saying that the Eiffel Tower was built so that the scrap of paint at the top would have somewhere to sit. It’s absurd, but it’s still the way we think.
+
+Where I live in the mountains of western Montana, a huge controversy is brewing about whether grizzly bears should be reintroduced to the wilderness area that sprawls outside our door. It’s an issue that makes people scoop up their kids and get out their guns. The anti-reintroduction folks say they don’t want to have to “take precautions” when they go hiking or horsepacking, meaning they don’t want to have to worry about becoming a meal for a grizzly. No longer top banana, they would have to accept being part of another animal’s food chain, a life-form on a planet that might itself be a life-form.
+
+The rub is, if we want to remain in Gaia’s good graces, that’s exactly how we have to think of ourselves, as one vote in a parliament of 30 million (maybe even 100 million), a species among species. Although we are different, and we have had a run of spectacular luck, we are not necessarily the best survivors over the long haul, nor are we immune to natural selection. As anthropologist Loren Eisley observed, all of the ancient city-states have fallen, and while “the workers in stone and gold are long departed,” the “bear alone stands upright, and leopards drink from the few puddles that remain.” The real survivors are the Earth inhabitants that have lived millions of years without consuming their ecological capital, the base from which all abundance flows.
+
+ 
+
+NOSTOS ERDA: RETURNING HOME TO EARTH
+I believe that we face our current dilemma not because the answers don’t exist, but because we simply haven’t been looking in the right places. Moi, upon leaving Washington, D.C., where he had seen hot showers, The Washington Post, and televised baseball for the first time, said merely, “There is not much to learn in the city. It is time to walk in the forest again.”
+
+It is time for us as a culture to walk in the forest again. Once we see nature as a mentor, our relationship with the living world changes. Gratitude tempers greed, and, as plant biologist Wes Jackson says, “the notion of resources becomes obscene.” We realize that the only way to keep learning from nature is to safeguard naturalness, the wellspring of good ideas. At this point in history, as we contemplate the very real possibility of losing a quarter of all species in the next thirty years, biomimicry becomes more than just a new way of looking at nature. It becomes a race and a rescue.
+
+It’s nearly midnight, and the ball is dropping–a wrecking ball aimed at the Eiffel Tower of squirming, flapping, pirouetting life. But at heart this is a hopeful book. At the same time that ecological science is showing us the extent of our folly, it is also revealing the pattern of nature’s wisdom reflected in all life. With the leadership of the biomimics you will meet in the chapters that follow, I am hoping that we will have the brains, the humility, and the spirituality that are needed to hold back that ball and take our seat at the front of nature’s class.
+
+This time, we come not to learn about nature so that we might circumvent or control her, but to learn from nature, so that we might fit in, at last and for good, on the Earth from which we sprang. We have a million questions. How should we grow our food? How should we make our materials? How should we power ourselves, heal ourselves, store what we learn? How should we conduct business in a way that honors the Earth? As we discover what nature already knows, we will remember how it feels to roar like a jaguar–to be a part of, not apart from, the genius that surrounds us.
+
+Let the living lessons begin.
+
+(C) 1997 Janine M. Benyus All rights reserved. ISBN: 0-688-13691-5
+
