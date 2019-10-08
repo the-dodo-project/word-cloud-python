@@ -26,7 +26,7 @@ The source code is licensed under MIT License.
 
 - Install NLTK:
   ```
-  $ pip install nltk
+  $ pip3 install nltk
   ```
 
 - Download NLTK packages. From python console:
